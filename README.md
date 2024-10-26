@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm G.S.V. Sai Chandra</h1>
 <h3 align="center">A passionate Mechanical Engineer and Developer with a love for Web Development, AI, and Cloud Computing 🚀</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineer;MERN-stack+Web+Developer;Python+Programmer;Always+Learning;=Web+Designer;Web+Developer;Open+to+Collaborate+%F0%9F%8C%9A&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineer;MERN-stack+Web+Developer;Python+Programmer;Always+Learning;Web+Designer;Web+Developer;Open+to+Collaborate+%F0%9F%8C%9A&center=true&width=500&height=50">
 </p>
 
 ---
