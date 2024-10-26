@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm G.S.V. Sai Chandra</h1>
 <h3 align="center">A passionate Mechanical Engineer and Developer with a love for Web Development, AI, and Cloud Computing 🚀</h3>
-<img src="https://readme-typing-svg.demolab.com/?lines=Web+Designer;Web+Developer;Python+Enthusiast;Open+to+Collaborate+%F0%9F%9A%80&center=true&width=500&height=50">
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineer;Full-stack+Web+Developer;Python+Programmer;Always+Learning+%F0%9F%8C%9A&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineer;MERN-stack+Web+Developer;Python+Programmer;Always+Learning;=Web+Designer;Web+Developer;Open+to+Collaborate+%F0%9F%8C%9A&center=true&width=500&height=50">
 </p>
 
 ---
 
 <h2>🚀 About Me</h2>
-- 👨‍💻 I'm currently working on **Budget Store (E-commerce)**  
-- 📝 Check out my portfolio projects [here](https://github.com/yourusername)  
+- 👨‍💻 I'm currently working on **https://mea-mu.vercel.app/** 
+- 📝 Check out my portfolio projects [here](https://github.com/ganjisaichandra)  
 - 🌱 I’m currently learning **React, Python, AI & Cloud**  
 - 💬 Ask me about **Web Development, Python, AI, Cloud Technologies**  
-- 📫 How to reach me: **gsvisaichandra@gmail.com**  
+- 📫 How to reach me: **saichandra38ganji@gmail.com**  
 - ⚡ Fun fact: I love to design things and work on impactful projects!
 
 ---
@@ -35,28 +32,17 @@
 <h2>🛠️ My Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername/Profile-Card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Profile-Card&theme=react"></a>
-  <a href="https://github.com/yourusername/Flask-CCTV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Flask-CCTV&theme=react"></a>
-  <a href="https://github.com/yourusername/Weather-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Weather-App&theme=react"></a>
-  <a href="https://github.com/yourusername/Amazon-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Amazon-Clone&theme=react"></a>
+  <a href="https://github.com/ganjisaichandra/Profile-Card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Profile-Card&theme=react"></a>
+  <a href="https://github.com/ganjisaichandra/Flask-CCTV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Flask-CCTV&theme=react"></a>
+  <a href="https://github.com/ganjisaichandra/Weather-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Weather-App&theme=react"></a>
+  <a href="https://github.com/ganjisaichandra/Amazon-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Amazon-Clone&theme=react"></a>
 </p>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="G.S.V. Sai Chandra's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" alt="GitHub Streak Stats" />
-</p>
-
----
 
 <h2>📫 Connect with me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gsvisaichandra@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/linkedin.com/in/g-s-v-sai-chandra-494aa0227"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:saichandra38ganji@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
