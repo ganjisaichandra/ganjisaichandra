@@ -27,17 +27,6 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
----
-
-<h2>🛠️ My Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/ganjisaichandra/Profile-Card"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Profile-Card&theme=react"></a>
-  <a href="https://github.com/ganjisaichandra/Flask-CCTV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Flask-CCTV&theme=react"></a>
-  <a href="https://github.com/ganjisaichandra/Weather-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Weather-App&theme=react"></a>
-  <a href="https://github.com/ganjisaichandra/Amazon-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Amazon-Clone&theme=react"></a>
-</p>
-
 <h2>📫 Connect with me</h2>
 
 <p align="center">
