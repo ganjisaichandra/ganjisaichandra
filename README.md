@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineer;MERN-stack Web+Developer;Python+Programmer;Always+Learning;Web+Designer;Web+Developer;Open+to+Collaborate+%F0%9F%8C%9A&center=true&width=500&height=50">
 </p>
 
----
+
 
 <h2>🚀 About Me</h2>
 - 👨‍💻 I'm currently Looking for an internship
