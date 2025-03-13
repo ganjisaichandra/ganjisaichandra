@@ -7,11 +7,11 @@
 ---
 
 <h2>🚀 About Me</h2>
-- 👨‍💻 I'm currently working on **https://mea-mu.vercel.app/** 
-- 📝 Check out my portfolio projects [here](https://github.com/ganjisaichandra)  
-- 🌱 I’m currently learning **React, Python, AI & Cloud**  
-- 💬 Ask me about **Web Development, Python, AI, Cloud Technologies**  
-- 📫 How to reach me: **saichandra38ganji@gmail.com**  
+- 👨‍💻 I'm currently Looking for an internship
+- 📝 Check out my portfolio projects (https://portfolio-ganji-sai-chandaras-projects.vercel.app/)  
+- 🌱 I’m currently learning React, Python, AI & Cloud
+- 💬 Ask me about **Web Development, Python, AI, Cloud Technologies 
+- 📫 How to reach me: saichandra38ganji@gmail.com
 - ⚡ Fun fact: I love to design things and work on impactful projects!
 
 ---
