@@ -8,7 +8,7 @@
 
 <h2>🚀 About Me</h2>
 - 👨‍💻 I'm currently Looking for an internship
-- 📝 Check out my portfolio projects (https://portfolio-website-self-three-98.vercel.app/)  
+- 📝 Check out my portfolio projects (saichandradesign.netlify.app)  
 - 🌱 I’m currently learning React, Python, AI & Cloud
 - 💬 Ask me about **Web Development, Python, AI, Cloud Technologies 
 - 📫 How to reach me: saichandra38ganji@gmail.com
